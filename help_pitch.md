@@ -12,6 +12,7 @@ _HELP!_ is a series of character-driven vignettes following the day-to-day exper
 - **Matt Smith** - Newest member of the team. Late 20s. Jokey and relateable. Has technical history through computer enthusiast hobbies, but is entry level in his professional IT carreer. Self-proclaimed as 'normal' and cannot help but see the oddities of his team members. Functionally serves as the bridge between the reader and the fiction, learning the ropes alongside the reader.
 - **Jason Alexander** - Looks nothing like the famous actor. Shares some similarities with his characters. Late 30s. Long time friend of Marv, having worked together at their previous job. Has a short temper, but is actually quite soft-hearted underneath. Has little patience for inadequacy and bureaucracy, but will often ask for help with simple questions.
 - **Dallas Hampton** - Largely inadequate. Early 30s. Is more often wrong than not. Overconfident and a bit too self-assertive. Not well liked by the rest of the team. His behavior is often a source of humor for the rest of the team, though he is rarely the butt of a joke, out of courtesy.
+- **Noah "Hot Todd" Knight** - The intern. Joins the team later in the story. An attractive college athlete. Somewhat of a golden retriever who doesn't take things too seriously and is just along for the ride. Dallas mishears his name and calls him Todd for a while. Eventually joins the team as a full-time employee without anyone realizing. Is often the butt of a joke.
 
 ### Narrative Structure
 
