@@ -19,6 +19,19 @@ _HELP!_ is a series of character-driven vignettes following the day-to-day exper
 Chapters are largely episodic, with each story largely being capable of standing alone. There is a general chronology to the events, but it is not important outside of the beginning and end. Early chapters will focus on introducing the reader to the characters, one or two at a time. Later chapters will explore the interactions between the Help Desk team members, as well as their interactions with end users. The series will be something like a novelized sitcom. The stories will be told through the lens of Matt Smith. 
 
 ## Story Ideas
+- Kieran deploys a script to open laptop disk trays at random intervals
+- Matt makes up fixes for problems to convince users something was wrong
+- Isaiah brings in a full VR setup to run a virtual desktop
+- The internet goes down
 
+## Chapter Plot Synopses
 #### Internal Communication
 > Noah is tasked by the Front End Support Team Manager to produce communications emails about all IT changes and policies for the company. The emails are well received by upper management and Noah ends up being tasked with handling all internal communications for the company while the HR Manager is out of the office. He is given access to the Busines Communications email account which allows him to send emails to the All_Employees_US distribution list, of which he gladly places his signature at the bottom. Isaiah has Hotty Todd stickers of Noah's face (from his headshot pasted in his email signature) printed in bulk. He begins placing them in various places around the office to watch the reactions of those who notice. Kieran and Matt join in on the action after they catch on. Isaiah leaves a large stack of stickers in the cafeteria, whichs are quickly picked up by other company employees, eventually resulting in the office being covered with Hotty Todd stickers. The CEO of the company ends up reaching out to Noah in liew of the HR Manager to send a communication ordering employees to cease the defacement of company property with threats of termination. The CEO provides a photo to include in the email, which shows a Hotty Todd sticker slapped directly next to the CEO's nameplate outside his office. The email is sent, and as the team's inboxes begin to receive the message, they all see Noah's smiling face, not just next to the CEO's name plate, but next to his email signature as well.
+
+#### 
+> Kieran begins deploying a script to the team's computers which opens their laptop's disk drive at random intervals.  
+
+
+
+
+.
